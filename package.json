@@ -12,5 +12,8 @@
     "npm"
   ],
   "author": "Daan",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "psql": "0.0.1"
+  }
 }
